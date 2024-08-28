@@ -7,4 +7,4 @@ if (typeof userNumber === "number" && !isNaN(userNumber)) {
     }
 } else {
     console.log('Упс, кажется, вы ошиблись')
-}//done
+}
