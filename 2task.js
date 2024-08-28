@@ -1,5 +1,4 @@
 let x = null;
-let res = "";
 if (typeof x === "number") {
 console.log(`${x} — число`)
 } else if (typeof x === "string") {
